@@ -104,13 +104,13 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "log_package",
+      "name": "an_core_log",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-01-25T19:49:31.605407Z",
+  "generated": "2025-01-25T19:55:29.823902Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///Users/nasser/Downloads/flutter",
